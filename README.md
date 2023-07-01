@@ -13,3 +13,5 @@ You can run the app with:
     ./gradlew npm_start
 
 Once it is running, you can access it in a browser at http://localhost:8080
+
+NB: the service on the train-schedule-kube in a real production environment will bw replace by NGINX dor others
